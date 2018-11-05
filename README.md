@@ -7,7 +7,7 @@ For recommendations and feedback, please see the [Feedback](#feedback) section b
 
 ## Web Archiving Purpose Statement
 
-The Carnegie Hall Archives aims to create a historic web record of Carnegie Hall, available for internal reference and limited public use. The Archives will collaborate with each Department to capture a representative sample of their web resources. The preserved, curated materials will depict the content, style, and impact of the Hall’s online initiatives.  
+The Carnegie Hall Archives aims to create a historic record of Carnegie Hall's websites, available for internal reference and limited public use. The Archives will collaborate with each Department to capture a representative sample of their web resources. The preserved, curated materials will depict the content, style, and impact of the Hall’s online initiatives.  
 
 ## Workplan
 
