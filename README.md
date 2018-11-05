@@ -1,7 +1,7 @@
 # Carnegie Hall Web Archiving
 
 ## What is this repository for?
-Resources and language in this repository are all a work-in-progress. The Carnegie Hall Archives is researching and working on web archiving: identifying possible sites to capture as an expansion to our Digital Collections, establishing description practices, and reviewing access options. 
+Resources and language in this repository are all a work-in-progress. The [Carnegie Hall Archives](https://www.carnegiehall.org/About/History/Archives) is researching and working on web archiving: identifying possible sites to capture as an expansion to our Digital Collections, establishing description practices, and reviewing access options. 
 
 For recommendations and feedback, please see the [Feedback](#feedback) section below.
 
