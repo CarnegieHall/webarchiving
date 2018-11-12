@@ -57,7 +57,7 @@ Known non-functioning options/actions:
 	- Filter by Performer: Oratorio Society of New York
 	- Filter by Date Range: 03/12/1891 (earliest available) – 01/01/1897
 	- Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!performer=36013&start=03/12/1891&end=01/01/1897
-	- Open oldest record (oldest record ["Rehearsal: Oratorio Society of New York"]: Event ID 48717; oldest performance: "Opening Week Music Festival: Opening Night of Carnegie Hall" Event ID 5067)
+	- Open oldest record (oldest record ["Rehearsal: Oratorio Society of New York"]: Event ID 48717; oldest performance: ["Opening Week Music Festival: Opening Night of Carnegie Hall"]: Event ID 5067)
 	- Change sort order: Latest First
 	- Open most recent record: "Oratorio Society of New York" (Event ID 8636)
 	- Clear all filters
