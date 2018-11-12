@@ -67,8 +67,8 @@ Known non-functioning options/actions:
 	- Export to PDF
 	- Please select Export type: Detailed (note: PDF export was broken by this point)
 	- Alternatively, Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!composer=1731&performer=24282 
-	- Open oldest record (OPAS ID 14520)
-	- Open most recent record (OPAS ID 48533)
+	- Open oldest record: "Empire Brass and Guests" (Event ID 14520)
+	- Open most recent record: "University of Notre Dame Concert Band" (Event ID 48533)
 	- Clear Performer filter: Philip Smith
 	- Filter by Performer: William Vacchiano (no matching results)
 	- Clear all filters
@@ -76,9 +76,9 @@ Known non-functioning options/actions:
 	- Filter by Performer: Jessye Norman
 	- Filter by Venue: Isaac Stern Auditorium / Ronald O. Perelman Stage
 	- Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!performer=40900&venue=94684
-	- Open oldest record (OPAS ID 15212)
+	- Open oldest record: "Marian Anderson 100th Birthday Celebration" (Event ID 15212)
 	- Change sort order: Latest First
-	- Open most recent record (OPAS ID 54192)
+	- Open most recent record: "Jessye Norman, Soprano and Mark Markham, Piano" (Event ID 54192)
 	- Clear all filters
 8.	Query: Isadora Duncan Archive trying to confirm Duncan recital in 1944 at which Leon Barzin conducted either the National Symphony Orchestra or the National Orchestral Association
 	- Filter by Performer: Leon Barzin
@@ -91,14 +91,14 @@ Known non-functioning options/actions:
 	- Filter by Venue: Main Hall (NB: most likely venue for concerto performances)
 	- Filter by Keyword: “violin concerto”
 	- Filters produce manageable set of results (35), which user can peruse to find correct concerts
-	- Open a few likely results, culminating with two concerts by Erick Friedman with American Symphony Orchestra (OPAS IDs 23309 and 30650)
+	- Open a few likely results, culminating with two concerts by Erick Friedman with American Symphony Orchestra (Event IDs 23309 and 30650)
 	-- These concerts are 2 weeks apart, but user finds single performer, 6 violin concertos (no other concerts on successive nights, and none featuring same performer playing more than one concerto)
 	- Clear all filters
 10.	Query: Performance history for solo recitals given by Martha Argerich
 	- Filter by Performer: Martha Argerich
 	- Filter by Genre (i.e. event type): solo recital
 	- Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!performer=6906&genre=24
-	- Open each event record (OPAS IDS 31525, 37386, 18864)
+	- Open each event record for Event IDs: 31525: "Ruggiero Ricci: 50th Anniversary of his New York Debut"; 37386: "Martha Argerich"; 18864: "Martha Argerich"
 	- Clear Genre filter: solo recital
 	- Filter by Genre: duo recital
 	- Open oldest record (OPAS ID 35393)(
