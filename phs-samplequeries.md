@@ -101,31 +101,31 @@ Known non-functioning options/actions:
 	- Open each event record for Event IDs: 31525: "Ruggiero Ricci: 50th Anniversary of his New York Debut"; 37386: "Martha Argerich"; 18864: "Martha Argerich"
 	- Clear Genre filter: solo recital
 	- Filter by Genre: duo recital
-	- Open oldest record (OPAS ID 35393)(
-	- Open most recent record (OPAS ID 41789)
+	- Open oldest record: "Gidon Kremer and Martha Argerich" (Event ID 35393)
+	- Open most recent record: "Martha Argerich and Nelson Freire" (Event ID 41789)
 	- Clear all filters
 11.	Query: Did Dietrich Fischer-Dieskau and Vladmir Horowitz ever perform Schumann’s Dichterliebe together at Carnegie Hall?
 	- Filter by Performer: Dietrich Fischer-Dieskau
 	- Filter by Performer: Vladimir Horowitz
-	- View result (only a single concert, OPAS ID 4907), to see that the concert included Dichterliebe performed by Fischer-Dieskau and Horowitz
+	- View result (only a single concert: "Carnegie Hall 85th Anniversary Celebration", Event ID 4907), to see that the concert included Dichterliebe performed by Fischer-Dieskau and Horowitz
 	- Clear all filters
 12.	Query: Performance history for Yuja Wang, noting total number of performances, debut date
 	- Filter by Performer: Yuja Wang
 	- Note total number of results, displayed in list header (“Showing 1-14 of 14 results”)
 	- Filter by Genre: solo recital
-	- Open oldest record (OPAS ID 49758). Notes field indicates that this was Yuja Wang’s New York Recital Debut.
+	- Open oldest record: "Yuja Wang, Piano" (Event ID 49758). Notes field indicates that this was Yuja Wang’s New York Recital Debut.
 	- Clear all filters
 13.	Query: What did Jascha Heifetz play as an encore at his debut in 1917?
 	- Filter by Performer: Jascha Heifetz
-	- View oldest record (OPAS ID 8940)
+	- View oldest record: "Jascha Heifetz" (Event ID 8940)
 	- Scroll to bottom of Event Detail overlay screen to view the work marked as ENCORE:
 	- Clear all filters
 14.	Query: Browse events with World Premieres of works at Carnegie Hall
 	- Keyword search: “world premiere”
-	- View oldest record (OPAS ID 30658)
-	- View record for 12/15/1893 (NB: World premiere of Dvorak’s New World Symphony, OPAS ID 19396)
+	- View oldest record: "New York Columbian Celebration" (Event ID 30658)
+	- View record for 12/15/1893: "New York Philharmonic" (NB: World premiere of Dvorak’s New World Symphony, Event ID 19396)
 	- Change sort order: Latest First
-	- Open most recent record (OPAS ID 60572)
+	- Open most recent record: "Cosmos New Music: An Evening of Chamber Music with the FSU College of Music" (Event ID 60572)
 15.	Demonstrate display options:
 	- Change Number of results to 100
 	- Click on Page 2 of paginated results
