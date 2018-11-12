@@ -1,3 +1,5 @@
+Version to add to Webrecorder
+
 
 Known non-functioning options/actions:
 - The date filter had an option where a small calendar UI would appear as a date picker/selection option. This was non-functional at the time of capture. For a representation of how the calendar appeared on the site, please see the PNG screenshots in the phs-calendar subdirectory.
