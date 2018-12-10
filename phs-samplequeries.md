@@ -2,41 +2,41 @@ Version to add to Webrecorder
 
 
 Known non-functioning options/actions:
-- The date filter had an option where a small calendar UI would appear as a date picker/selection option. This was non-functional at the time of capture. For a representation of how the calendar appeared on the site, please see the PNG screenshots in the phs-calendar subdirectory.
+\- The date filter had an option where a small calendar UI would appear as a date picker/selection option. This was non-functional at the time of capture. For a representation of how the calendar appeared on the site, please see the PNG screenshots in the phs-calendar subdirectory.
 
-- The Export to PDF functionality was non-functional at the time of capture. For a representation of how the PDF export appeared on the site, please see [file name] in this directory.
+\- The Export to PDF functionality was non-functional at the time of capture. For a representation of how the PDF export appeared on the site, please see [file name] in this directory.
 
 **Scenarios with step-by-step instructions to replicate**
 
 1.	Query: Performances of Beethoven’s Ninth Symphony in past 10 years: what has it been programmed with?
-	- Filter by Composer: Ludwig van Beethoven
-	- Filter by Work: Symphony No. 9 in D Minor, Op. 125
-	- Filter by Date Range: 09/09/2007-05/14/2018
-	- Export to PDF
-	- Please select Export type: Detailed (note: PDF export was broken by this point)
-	- Alternatively, Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!composer=5833&start=09/09/2007&end=05/14/2018&title=Symphony%20No.%209%20in%20D%20Minor,%20Op.%20125 
-	- Open oldest record: "Opening Night of the 117th Season: Lucerne Festival Orchestra" (Event ID 45039)
-	- Change sort order: Latest First
-	- Open most recent record: "Park Avenue Chamber Symphony" (Event ID 57590)
-	- Clear all filters
+	\- Filter by Composer: Ludwig van Beethoven
+	\- Filter by Work: Symphony No. 9 in D Minor, Op. 125
+	\- Filter by Date Range: 09/09/2007-05/14/2018
+	\- Export to PDF
+	\- Please select Export type: Detailed (note: PDF export was broken by this point)
+	\- Alternatively, Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!composer=5833&start=09/09/2007&end=05/14/2018&title=Symphony%20No.%209%20in%20D%20Minor,%20Op.%20125 
+	\- Open oldest record: "Opening Night of the 117th Season: Lucerne Festival Orchestra" (Event ID 45039)
+	\- Change sort order: Latest First
+	\- Open most recent record: "Park Avenue Chamber Symphony" (Event ID 57590)
+	\- Clear all filters
 2.	Query: Programs from “Spring For Music”, 2011
-	- Keyword Search: “spring for music”
-	- Filter by Date Range: End Date 06/01/2011 (NB Spring For Music started in 2011, so earliest record available effectively sets the start date)
-	- Export to PDF
-	- Please select Export type: Detailed (note: PDF export was broken by this point)
-	- Alternatively, Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!search=spring%20for%20music&start=01/01/1891&end=06/01/2011 
-	- Open oldest record: "Spring for Music: Orpheus Chamber Orchestra: The New Brandenburgs" (Event ID 49372)
-	- Open most recent record: "Spring for Music: Orchestre Symphonique de Montréal: The Evolution of the Symphony" (Event ID 49403)
-	- Clear all filters
+	\- Keyword Search: “spring for music”
+	\- Filter by Date Range: End Date 06/01/2011 (NB Spring For Music started in 2011, so earliest record available effectively sets the start date)
+	\- Export to PDF
+	\- Please select Export type: Detailed (note: PDF export was broken by this point)
+	\- Alternatively, Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!search=spring%20for%20music&start=01/01/1891&end=06/01/2011 
+	\- Open oldest record: "Spring for Music: Orpheus Chamber Orchestra: The New Brandenburgs" (Event ID 49372)
+	\- Open most recent record: "Spring for Music: Orchestre Symphonique de Montréal: The Evolution of the Symphony" (Event ID 49403)
+	\- Clear all filters
 3.	Query: Information on Beethoven Piano Sonata cycles by Barenboim, Brendel, and Schnabel
-	- Keyword Search: “complete”
-	- Filter by Composer: Ludwig van Beethoven
-	- Filter by Performer: Daniel Barenboim
-	- Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!search=complete&composer=5833&performer=28053 
-	- Open oldest record: "Daniel Barenboim, Piano: Barenboim Plays Beethoven" (Event ID 7176)
-	- Change sort order: Latest First
-	- Open most recent record: "Daniel Barenboim, Piano: The Complete Beethoven Piano Sonatas" (Event ID 39390)
-	- Clear Performer filter for Daniel Barenboim
+	\- Keyword Search: “complete”
+	\- Filter by Composer: Ludwig van Beethoven
+	\- Filter by Performer: Daniel Barenboim
+	\- Share this search: https://ektpreprod.corp.carnegiehall.org/PerformanceHistorySearch/#!search=complete&composer=5833&performer=28053 
+	\- Open oldest record: "Daniel Barenboim, Piano: Barenboim Plays Beethoven" (Event ID 7176)
+	\- Change sort order: Latest First
+	\- Open most recent record: "Daniel Barenboim, Piano: The Complete Beethoven Piano Sonatas" (Event ID 39390)
+	\- Clear Performer filter for Daniel Barenboim
 	- Filter by Performer: Alfred Brendel
 	- Open oldest record: "Alfred Brendel, Piano: Complete Beethoven Piano Sonatas" (Event ID 33473)
 	- Open most recent record: "Alfred Brendel, Piano: Complete Beethoven Piano Sonatas" (Event ID 20030)
