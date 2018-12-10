@@ -1,5 +1,7 @@
 Known non-functioning options/actions:
+
 \- The date filter had an option where a small calendar UI would appear as a date picker/selection option. This was non-functional at the time of capture. For a representation of how the calendar appeared on the site, please see the PNG screenshots in the phs-calendar subdirectory.
+
 \- The Export to PDF functionality was non-functional at the time of capture. For a representation of how the PDF export appeared on the site, please see [file name] in this directory.
 
 **Scenarios with step-by-step instructions to replicate**
