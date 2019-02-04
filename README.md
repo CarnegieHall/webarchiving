@@ -40,7 +40,6 @@ Department requesting a site to be captured will lead the capture, with support 
 
 ### 4. Maintain and make web archives available for access
 #### 4a. Through Webrecorder.io
-[Add performance history warc]
 
 #### 4b. Review options for representing captures in existing Digital Collections system
 
