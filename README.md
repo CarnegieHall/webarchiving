@@ -3,13 +3,16 @@
 ## What is this repository for?
 Resources and language in this repository are all a work-in-progress. The [Carnegie Hall Archives](https://www.carnegiehall.org/About/History/Archives) is researching and working on web archiving: identifying possible sites to capture as an expansion to the Carnegie Hall (CH) Digital Collections, establishing description practices, and reviewing access options. 
 
-Visit [CH Archives on Webrecorder](https://webrecorder.io/CHArchives).
-
-For recommendations and feedback, please see the [Feedback](#feedback) section below.
-
 ## Web Archiving Purpose Statement
 
 The Carnegie Hall Archives aims to create a historic record of Carnegie Hall's websites, available for internal reference and limited public use. The Archives will collaborate with each Department to capture a representative sample of their web resources. The preserved, curated materials will depict the content, style, and impact of the Hall’s online initiatives. 
+
+## Go to...
+
+- [Workplan](/workplan.md)
+- [List of captures](/ch-captures.md)
+
+You can also visit [CH Archives on Webrecorder](https://webrecorder.io/CHArchives).
 
 ## Feedback
 
