@@ -5,14 +5,21 @@
 ## What is Web Archiving?
 "The process of selecting, capturing, saving and making accessible select content available online (e.g. websites)" - (p. 8 of [Web Archive Intro](https://www.slideshare.net/annaperricci/web-archiving-intro-circa-2015) by Anna Pericci).
 
-Web content is very vulnerable to loss! CH is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html)
+Web content is very vulnerable to loss. Carnegie Hall is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html)
 
+## Different types of captures
+
+### Needs-based capture levels
 Web Archiving can be done at different levels: 
 - By harvesting content and republishing in updated capacity to align with current web goals 
 - Through dynamic capture to represent functionality and features
 - Screenshot, quick reference for low-fidelity capture 
 
-## Different types of captures
+![Screenshot of 1996 Carnegie Hall website](/ch1996.png)
+
+_1996 iteration of the Carnegie Hall website (captured by and accessible in the Wayback Machine from Internet Archive)_
+
+### Capture tools and approaches
 Crawls vs curated captures
 Difference between WARC capture vs content dump vs. text vs crawl
 Saved by a crawl: (also by AP)
