@@ -11,18 +11,17 @@ Web content is very vulnerable to loss. Carnegie Hall is attempting to address t
 
 ### Needs-based capture levels
 Web Archiving can be done at different levels: 
-- By harvesting content and republishing in updated capacity to align with current web goals 
-- Through dynamic capture to represent functionality and features
-- Screenshot, quick reference for low-fidelity capture 
+1. Dynamic, curated capture to represent functionality and features
+2. Low fidelity capture like high-level crawls (Wayback Machine) or even as simple as screenshots
+3. Content harvest where all assets, media are captured for future management or reuse in updated capacity to align with current web goals 
 
 ![Screenshot of 1996 Carnegie Hall website](/ch1996.png)
 
 _1996 iteration of the Carnegie Hall website (captured by and accessible in the Wayback Machine from Internet Archive)_
 
-### Capture tools and approaches
-Crawls vs curated captures
-Difference between WARC capture vs content dump vs. text vs crawl
-Saved by a crawl: (also by AP)
+### Capture tools
+#### Crawls
+Crawler is software that indexes web content. Saved by a crawl: (also by AP)
 - Code/info in web programming language (HTML, Flash)
 - Some formatting (e.g., CSS)
 - Text
@@ -30,19 +29,28 @@ Saved by a crawl: (also by AP)
 - Some media files (embedded, but not the streamed ones)
 - Documents, spreadsheets, presentations, data sets (XML, PDF, CSV)
 
-What is worthy of capture? What quality do we expect from each capture? 
+Archive-It
+Wget
 
-Ex.: sites that no longer function; how to capture the older, functioning site 
+#### Curated captures
+Need project-by-project goal, as each site is unique. What is worthy of capture? What quality do we expect from each capture? 
 
-Do we want evidence that X site existed at this time, contained this information? Or do we want to capture the experience of using the site? 
+WebRecorder
 
-Need project-by-project goal, as each site is unique 
+#### Web Archiving formats
 
-What is a web archive and common web archiving formats?
+WARC
 
-Crawler is softwarenis software that indexes web content
+#### Viewing captured sites
+
+Wayback Machine
+Webrecorder (UI and Player)
+Emulation
+
 
 ## What are web archiving goals?
 What needs are being met by web archive capture of sites?
 Representation of web-based output from an individual or organization
 Build in sustainability factors into creation - start preservation process at point of creation 
+Do we want evidence that X site existed at this time, contained this information? Or do we want to capture the experience of using the site? 
+Ex.: sites that no longer function; how to capture the older, functioning site 
