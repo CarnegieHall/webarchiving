@@ -35,7 +35,7 @@ Wget
 #### Curated captures
 Need project-by-project goal, as each site is unique. What is worthy of capture? What quality do we expect from each capture? 
 
-WebRecorder
+Webrecorder
 
 #### Web Archiving formats
 
