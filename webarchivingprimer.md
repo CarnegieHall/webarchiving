@@ -16,6 +16,16 @@ Build in sustainability factors into creation - start preservation process at po
 
 Do we want evidence that X site existed at this time, contained this information? Or do we want to capture the experience of using the site? ex.: sites that no longer function; how to capture the older, functioning site 
 
+### What are significant properties of websites?
+
+What are the 'significant properties' or aspects of a website that need to be captured or maintained to appropriately represent what the site is? Does it matter if an aspect is missing in the captured/archived version? One way to assess this is to do a side-by-side comparison of the live site and capture. We can then ask ourselves if the site is "complete" based on what appears or doesn't appear in the capture. 
+
+Some questions to consider when doing this comparison and thinking about signficant properties:
+- Are images missing?
+- Are media files not playing?
+- Are text or design elements missing or inaccurate because the CSS is not captured? 
+- Is navigation required, and to what extent? What links are broken?
+
 ## Different types of captures
 
 ### Needs-based capture levels
