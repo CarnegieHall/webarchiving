@@ -70,11 +70,11 @@ Because there is more active choice in using curation tools, the user has to dec
 
 #### How to view captured sites
 
-[Wayback Machine](https://archive.org/web/) (Internet Archive)
+[Wayback Machine](https://archive.org/web/) (Internet Archive): "The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites. Visitors to the Wayback Machine can type in a URL, select a date range, and then begin surfing on an archived version of the Web" (Wayback Machine).
 
-Webrecorder (UI and Player)
+[Webrecorder](https://webrecorder.io/) (UI and Player): "Webrecorder is a web archiving service anyone can use for free to save web pages. Making a capture is as easy as browsing a page like you normally would. Webrecorder automatically archives the page, along with any additional content triggered by interactions" (Webrecorder). Webrecorder hosts and provides download access to WARC files, regardless of whether or not the files were initially created using its tools.
 
-Emulation
+Emulation: 
 
 
 
