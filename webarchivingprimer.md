@@ -55,22 +55,25 @@ Crawler is software that indexes web content. Saved by a crawl: (also by AP)
 - Some media files (embedded, but not the streamed ones)
 - Documents, spreadsheets, presentations, data sets (XML, PDF, CSV)
 
-Archive-It
-Wget
+**Crawling Tools**: [Archive-It](https://archive-it.org/); [Wget](https://en.wikipedia.org/wiki/Wget)
 
 #### Curated captures
-Need project-by-project goal, as each site is unique. What is worthy of capture? What quality do we expect from each capture? 
+Some of the complex aspects of websites cannot be captured by crawling tools. To grab embedded media, Flash-based features, or interactive functions, the user may choose to manually navigate the site contents during the web archive process. Using curation tools, the user has more control over what is gathered, and can ensure that the most granular or complex significant properties are contained in the site archive.
 
-Webrecorder
+Because there is more active choice in using curation tools, the user has to decide what is worthy of capture and what quality is expected. The user is responsible for creating a site archive that includes all the in-scope significant properties. 
+
+**Manual Capture Tools:** [Webrecorder](https://webrecorder.io/) ("Unlike conventional crawl-based web archiving methods, [Webrecorder] allows even intricate websites, such as those with embedded media, complex Javascript, user-specific content and interactions, and other dynamic elements, to be captured and faithfully restaged.")
 
 #### Web Archiving formats
 
-WARC
+[WARC](https://www.loc.gov/preservation/digital/formats/fdd/fdd000236.shtml) - (Web ARChive) file format: "specifies a method for combining multiple digital resources into an aggregate archival file together with related information. The WARC format is a revision of the Internet Archive's ARC File Format format that has traditionally been used to store 'web crawls' as sequences of content blocks harvested from the World Wide Web. The WARC format generalizes the older format to better support the harvesting, access, and exchange needs of archiving organizations. Besides the primary content currently recorded, the revision accommodates related secondary content, such as assigned metadata, abbreviated duplicate detection events, and later-date transformations."
 
-#### Viewing captured sites
+#### How to view captured sites
 
-Wayback Machine
+[Wayback Machine](https://archive.org/web/) (Internet Archive)
+
 Webrecorder (UI and Player)
+
 Emulation
 
 
