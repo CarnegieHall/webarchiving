@@ -8,13 +8,19 @@
 Web content is very vulnerable to loss. Carnegie Hall is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html)
 
 ## What are Carnegie Hall's web archiving goals?
-What needs are being met by web archive capture of sites?
 
-Representation of web-based output from an individual or organization
+### Carnegie Hall Web Archiving Purpose Statement
+The Carnegie Hall Archives aims to create a historic record of Carnegie Hall’s websites, available for internal reference and limited public use. The Archives will collaborate with each Department to capture a representative sample of their web resources. The preserved, curated materials will depict the content, style, and impact of the Hall’s online initiatives.
 
-Build in sustainability factors into creation - start preservation process at point of creation 
+### Questions to consider
 
-Do we want evidence that X site existed at this time, contained this information? Or do we want to capture the experience of using the site? ex.: sites that no longer function; how to capture the older, functioning site 
+- How do we represent the web-based output from Carnegie Hall? Do we want evidence that X site existed at this time, contained this information as a snapshot? Or do we want to capture the experience of using the site?
+
+- What needs are being met by web archive capture of sites?
+
+- How is it possible to build in sustainability factors into creation? How can we support preservation by starting at the point of creation with responsible practices? 
+
+
 
 ### What are significant properties of websites?
 
@@ -25,6 +31,7 @@ Some questions to consider when doing this comparison and thinking about signfic
 - Are media files not playing?
 - Are text or design elements missing or inaccurate because the CSS is not captured? 
 - Is navigation required, and to what extent? What links are broken?
+- For sites with features that no longer function - how do you capture the existence and/or experience of the older, functioning site?
 
 ## Different types of captures
 
