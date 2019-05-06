@@ -74,7 +74,3 @@ Because there is more active choice in using curation tools, the user has to dec
 
 [Webrecorder](https://webrecorder.io/) (UI and Player): "Webrecorder is a web archiving service anyone can use for free to save web pages. Making a capture is as easy as browsing a page like you normally would. Webrecorder automatically archives the page, along with any additional content triggered by interactions" (Webrecorder). Webrecorder hosts and provides download access to WARC files, regardless of whether or not the files were initially created using its tools.
 
-Emulation: 
-
-
-
