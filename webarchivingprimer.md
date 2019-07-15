@@ -3,9 +3,9 @@
 *DRAFT*
 
 ## What is Web Archiving?
-"The process of selecting, capturing, saving and making accessible select content available online (e.g. websites)" - (p. 8 of [Web Archive Intro](https://www.slideshare.net/annaperricci/web-archiving-intro-circa-2015) by Anna Pericci).
+"The process of selecting, capturing, saving and making accessible select content available online (e.g. websites)" - (p. 8 of [Web Archive Intro](https://www.slideshare.net/annaperricci/web-archiving-intro-circa-2015) by Anna Perricci).
 
-Web content is very vulnerable to loss. Carnegie Hall is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html)
+Web content is very vulnerable to loss. Carnegie Hall is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html).
 
 ## What are Carnegie Hall's web archiving goals?
 
