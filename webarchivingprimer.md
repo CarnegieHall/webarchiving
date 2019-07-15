@@ -7,6 +7,8 @@
 
 Web content is very vulnerable to loss. Carnegie Hall is attempting to address this by building a web archiving strategy based with its [web archiving workplan](https://carnegiehall.github.io/webarchiving/workplan.html).
 
+[Web archiving is an aspect of archiving for Carnegie Hall. Our work to preserve "content" presented on the web (photos, resources, media), must be done in tandem with archiving the experiencing of interacting  with and accessing that content online. While we have systems in place to archive assets, we need to also capture how those assets (context, form, etc) are shared.]
+
 ## What are Carnegie Hall's web archiving goals?
 
 ### Carnegie Hall Web Archiving Purpose Statement
