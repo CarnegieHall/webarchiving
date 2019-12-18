@@ -12,6 +12,7 @@ The Carnegie Hall Archives aims to create a historic record of Carnegie Hall's w
 - Draft [Workplan](/workplan.md)
 - [List of captures](/ch-captures.md)
 - Draft [Web Archiving Primer](/webarchivingprimer.md)
+- Updates on [collaboration with Webrecorder](/updates.md) (December 2019)
 
 You can also visit [CH Archives on Webrecorder](https://webrecorder.io/CHArchives).
 
